@@ -1,0 +1,57 @@
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.byHrast.exe.config
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.byHrast.exe
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.byHrast.pdb
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Attributes.dll
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Controls.dll
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Utilities.dll
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Utilities.Video.dll
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Astrometry.xml
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Attributes.xml
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Controls.xml
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.SettingsProvider.xml
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Utilities.xml
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\bin\Debug\ASCOM.Internal.Extensions.xml
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\obj\Debug\byHrast.csproj.AssemblyReference.cache
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\obj\Debug\ASCOM.byHrast.Rotator.SetupDialogForm.resources
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\obj\Debug\ASCOM.LocalServer.FrmMain.resources
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\obj\Debug\ASCOM.byHrast.Focuser.SetupDialogForm.resources
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\obj\Debug\byHrast.csproj.GenerateResource.cache
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\obj\Debug\byHrast.csproj.CoreCompileInputs.cache
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\obj\Debug\byHrast.csproj.CopyComplete
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\obj\Debug\ASCOM.byHrast.exe
+C:\Users\hrast\Downloads\Focuser Rotator Server\byHrast-master\obj\Debug\ASCOM.byHrast.pdb
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.byHrast.exe.config
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.byHrast.exe
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.byHrast.pdb
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Attributes.dll
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Controls.dll
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Utilities.dll
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Utilities.Video.dll
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Astrometry.xml
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Attributes.xml
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Controls.xml
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.SettingsProvider.xml
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Utilities.xml
+C:\Users\hrast\source\repos\byHrast\bin\Debug\ASCOM.Internal.Extensions.xml
+C:\Users\hrast\source\repos\byHrast\obj\Debug\byHrast.csproj.AssemblyReference.cache
+C:\Users\hrast\source\repos\byHrast\obj\Debug\ASCOM.byHrast.Rotator.SetupDialogForm.resources
+C:\Users\hrast\source\repos\byHrast\obj\Debug\ASCOM.LocalServer.FrmMain.resources
+C:\Users\hrast\source\repos\byHrast\obj\Debug\ASCOM.byHrast.Focuser.SetupDialogForm.resources
+C:\Users\hrast\source\repos\byHrast\obj\Debug\byHrast.csproj.GenerateResource.cache
+C:\Users\hrast\source\repos\byHrast\obj\Debug\byHrast.csproj.CoreCompileInputs.cache
+C:\Users\hrast\source\repos\byHrast\obj\Debug\ASCOM.byHrast.exe
+C:\Users\hrast\source\repos\byHrast\obj\Debug\ASCOM.byHrast.pdb
