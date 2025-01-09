@@ -1,7 +1,7 @@
 # byHrast_Rotator-Focuser
-Server based ASCOM driver for Focuser and Rotator written in C#. It opens serial communication with the HW. 
+This is a server-based ASCOM driver for the "Focuser and Rotator" device written in C#. It opens serial communication with the HW. 
 
-I have developed PCB based on ESP32 DevKit WROOM and A4988 stepper drivers. You can find the EasyEDA project in the folder. 
+I developed a PCB based on ESP32 DevKit WROOM and A4988 stepper drivers. The EasyEDA project is in the folder. 
 
 ![PrSCR](https://github.com/user-attachments/assets/be41ae10-5871-4221-8f96-b4c8b61027c7)
 
